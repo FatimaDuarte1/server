@@ -1,11 +1,11 @@
 # Project Title
 
-Práctica | Mi primer servidor TCP
+Práctica | Mi primer servidor HTTP
 
 ## Getting Started
 
 Para probrar el código hay que clonar el repositorio: 
-https://github.com/FatimaDuarte1/TCP y en la terminal poner node server.js y en otra instancia de terminal poner node client.js
+https://github.com/FatimaDuarte1/server y en la terminal poner node app.js
 
 ### Prerequisites
 
