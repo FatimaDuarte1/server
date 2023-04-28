@@ -18,6 +18,8 @@ Recomendado para java script.
 
 * node.js v12: Entorno en tiempo de ejecución multiplataforma
 * JavaScript: Lenguaje de programación.
+* CSS.
+* HTML.
 
 ## Contributing
 
